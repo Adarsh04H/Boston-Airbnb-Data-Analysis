@@ -11,3 +11,4 @@ The data is in the form of csv file and has 3 different files. The data is divid
 2)	Listings – This contains the listings, location, host info, prices, occupancy and many more. 
 3)	Reviews – This dataset contains reviews of the host and Airbnb, reviewer info and dates. 
 4)  Median Income - This dataset contain data on population, median income and zipcode of the area. 
+
